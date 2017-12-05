@@ -1,0 +1,17 @@
+body {
+  background: purple;
+
+
+}
+
+h1 {
+  color: red;
+  font-size: 30px;
+  font-family: fantasy;
+  font-weight: bold;
+}
+
+img {
+  padding: 40px
+  border: 5px
+}
